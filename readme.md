@@ -1,0 +1,1 @@
+migrasi ke db = npx prisma migrate dev
